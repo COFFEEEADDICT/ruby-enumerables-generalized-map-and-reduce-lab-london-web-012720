@@ -1,6 +1,6 @@
 def map(array)
 new = []
-array.size {|i|
-new << array[i] * -1
-}
+i=0
+while i < array.size
+  yield(array[i])
 end
