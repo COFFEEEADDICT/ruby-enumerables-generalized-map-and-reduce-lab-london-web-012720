@@ -1,6 +1,6 @@
 # Your Code Here
-def my_map(map)
-
-map([1, 2, 3, -9]) {|n| n * -1}
-
+def one(arr)
+yield(arr)
 end
+
+one(arr){|i| i * -1}
