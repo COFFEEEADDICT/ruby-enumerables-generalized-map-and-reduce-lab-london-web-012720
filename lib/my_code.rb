@@ -7,5 +7,3 @@ i=0
   end
 new
 end
-
-
