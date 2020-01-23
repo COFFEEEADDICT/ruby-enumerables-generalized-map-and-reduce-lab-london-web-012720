@@ -7,3 +7,5 @@ i=0
   end
 new
 end
+
+def reduce
