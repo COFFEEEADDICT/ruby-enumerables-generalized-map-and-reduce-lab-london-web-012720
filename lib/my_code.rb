@@ -3,4 +3,4 @@ def onee(input)
 yield input
 end
 
-one(arr){|i| i * 1}
+one(input){|i| i * 1}
