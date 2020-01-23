@@ -8,6 +8,6 @@ i=0
 new
 end
 
-def reduce(array)
+def reduce(array, start)
 
 end
