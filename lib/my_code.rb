@@ -1,6 +1,5 @@
-input = [1,2,3]
-def onee(input)
+def map([1,2,3,-9])
 yield input
 end
 
-one(input){|i| i * 1}
+one([1,2,3,-9]){|i| i * -1}
