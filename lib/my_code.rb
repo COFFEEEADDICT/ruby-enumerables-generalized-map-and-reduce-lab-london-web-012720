@@ -8,4 +8,4 @@ i=0
 new
 end
 
-map(array){|n| n* -1}
+
