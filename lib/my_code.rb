@@ -7,3 +7,5 @@ i=0
   end
 new
 end
+
+map(array){|n| n* -1}
